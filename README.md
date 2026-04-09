@@ -2,6 +2,13 @@
 
 This repository contains a full Retrieval-Augmented Generation (RAG) system with a custom evaluation framework centered on a niche domain: **The Biology and Survival Mechanisms of Tardigrades**.
 
+#Demo video
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=OGV1gEN6IDA">
+    <img src="https://img.youtube.com/vi/OGV1gEN6IDA/maxresdefault.jpg" width="700">
+  </a>
+</p>
+
 ## Overview
 - **Domain**: Biology and Survival Mechanisms of Tardigrades (Water Bears).
 - **Dataset**: `[Simulated]` 6 comprehensive text documents and a 10-item Q&A evaluation dataset.
@@ -47,5 +54,3 @@ streamlit run app.py
 1. *Metric Scaling*: Cosine similarity using `all-MiniLM-L6-v2` generally groups closely clustered sentences in the `0.6 - 0.9` range. Differentiating a "perfect" vs "good" answer simply through a hard cosine threshold proved challenging without introducing more complex LLM-as-a-judge patterns. Simple keyword overlap provided a very strict grounding, but fails on synonyms. Ultimately, a combination of both metrics provided standard baseline signals.
 2. *Hallucination risks*: Even specialized RAG can hallucinate if the LLM generalizes. The system prompt strongly commands it to "use concise, accurate sentences based ONLY on the context" to mitigate this.
 
-## Video Demonstration
-The demonstration video shows the application interacting with queries and running the full evaluation framework.
