@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the common name for tardigrades and what phylum do they belong to?",
+    "expected_answer": "Tardigrades are commonly known as water bears or moss piglets. They belong to the phylum Tardigrada."
+  },
+  {
+    "question": "Where are tardigrades typically found, and why are they considered aquatic animals?",
+    "expected_answer": "Tardigrades are found in diverse environments globally, typically living in a film of water surrounding mosses, lichens, and leaf litter. They are considered aquatic because they require water to remain active."
+  },
+  {
+    "question": "What is cryptobiosis in tardigrades?",
+    "expected_answer": "Cryptobiosis is a state of suspended animation that tardigrades enter when environmental conditions become intolerable, such as extreme desiccation or freezing, effectively suspending their metabolism."
+  },
+  {
+    "question": "What is a 'tun' and what triggers its formation?",
+    "expected_answer": "A 'tun' is a desiccated, pill-like state tardigrades curl into. It is triggered by anhydrobiosis, which is caused by a lack of water."
+  },
+  {
+    "question": "How do trehalose and TDPs help tardigrades during severe dehydration?",
+    "expected_answer": "Trehalose is a sugar that replaces water in cells to prevent membrane collapse. TDPs (Tardigrade-specific intrinsically disordered proteins) form a glass-like matrix that locks sensitive proteins in place, preventing them from denaturing."
+  },
+  {
+    "question": "What extreme temperatures and pressures can tardigrades survive in their cryptobiotic state?",
+    "expected_answer": "They can survive temperatures as low as -272 °C and as high as 150 °C. They can also withstand pressures up to 6,000 atmospheres."
+  },
+  {
+    "question": "What was the significance of the 2007 FOTON-M3 mission regarding tardigrades?",
+    "expected_answer": "During this mission, tardigrades survived direct exposure to the vacuum of space, severe cosmic radiation, and intense solar UV radiation for 10 days, making them the first known animals to do so."
+  },
+  {
+    "question": "Do tardigrades have a distinct respiratory system?",
+    "expected_answer": "No, tardigrades lack distinct respiratory systems. Gas exchange occurs directly across their body surface, requiring them to be covered in at least a microscopic layer of water to breathe."
+  },
+  {
+    "question": "How do parthenogenic tardigrade species reproduce and why is this advantageous?",
+    "expected_answer": "Parthenogenic species consist entirely of females that lay unfertilized eggs which develop into clones. This is advantageous in harsh environments because a single tardigrade can establish a colony without needing a mate."
+  },
+  {
+    "question": "What is the Dsup protein and how does it protect tardigrades?",
+    "expected_answer": "The Dsup (Damage suppressor) protein is uniquely found in tardigrades. It binds directly to their DNA, forming a physical shield that significantly reduces DNA damage from hydroxyl radicals caused by ionizing radiation."
+  }
+]

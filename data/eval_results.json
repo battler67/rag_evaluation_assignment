@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the common name for tardigrades and what phylum do they belong to?",
+        "generated_answer": "Tardigrades are commonly known as water bears or moss piglets, and they belong to the phylum Tardigrada.",
+        "expected_answer": "Tardigrades are commonly known as water bears or moss piglets. They belong to the phylum Tardigrada.",
+        "quantitative_metrics": {
+            "cosine_similarity": 0.9977779388427734,
+            "keyword_overlap": 1.0
+        },
+        "qualitative_assessment": {
+            "coherence_score": 0,
+            "factual_correctness_score": 0,
+            "completeness_score": 0,
+            "notes": ""
+        },
+        "retrieval_performance": {
+            "keyword_presence_in_context": 0.9090909090909091
+        }
+    },
+    {
+        "question": "Where are tardigrades typically found, and why are they considered aquatic animals?",
+        "generated_answer": "Tardigrades are typically found in diverse environments across the globe, including mosses, lichens, and leaf litter. They are considered aquatic animals because they require water to remain active, even in seemingly terrestrial environments.",
+        "expected_answer": "Tardigrades are found in diverse environments globally, typically living in a film of water surrounding mosses, lichens, and leaf litter. They are considered aquatic because they require water to remain active.",
+        "quantitative_metrics": {
+            "cosine_similarity": 0.9521467685699463,
+            "keyword_overlap": 0.8
+        },
+        "qualitative_assessment": {
+            "coherence_score": 0,
+            "factual_correctness_score": 0,
+            "completeness_score": 0,
+            "notes": ""
+        },
+        "retrieval_performance": {
+            "keyword_presence_in_context": 0.9047619047619048
+        }
+    },
+    {
+        "question": "What is cryptobiosis in tardigrades?",
+        "generated_answer": "Cryptobiosis in tardigrades is a state of suspended animation that allows them to survive extreme environmental conditions by almost completely suspending their metabolism.",
+        "expected_answer": "Cryptobiosis is a state of suspended animation that tardigrades enter when environmental conditions become intolerable, such as extreme desiccation or freezing, effectively suspending their metabolism.",
+        "quantitative_metrics": {
+            "cosine_similarity": 0.9615147709846497,
+            "keyword_overlap": 0.55
+        },
+        "qualitative_assessment": {
+            "coherence_score": 0,
+            "factual_correctness_score": 0,
+            "completeness_score": 0,
+            "notes": ""
+        },
+        "retrieval_performance": {
+            "keyword_presence_in_context": 0.7
+        }
+    },
+    {
+        "question": "What is a 'tun' and what triggers its formation?",
+        "generated_answer": "A 'tun' is a desiccated, pill-like state that tardigrades curl into during the process of anhydrobiosis, which is triggered by a lack of water.",
+        "expected_answer": "A 'tun' is a desiccated, pill-like state tardigrades curl into. It is triggered by anhydrobiosis, which is caused by a lack of water.",
+        "quantitative_metrics": {
+            "cosine_similarity": 0.9718640446662903,
+            "keyword_overlap": 0.9285714285714286
+        },
+        "qualitative_assessment": {
+            "coherence_score": 0,
+            "factual_correctness_score": 0,
+            "completeness_score": 0,
+            "notes": ""
+        },
+        "retrieval_performance": {
+            "keyword_presence_in_context": 0.7692307692307693
+        }
+    },
+    {
+        "question": "How do trehalose and TDPs help tardigrades during severe dehydration?",
+        "generated_answer": "Trehalose helps tardigrades during severe dehydration by replacing water inside their cells, preventing the collapse of cellular membranes and the crystallization of remaining water. Tardigrade-specific intrinsically disordered proteins (TDPs) provide additional protection to cellular structures, aiding in their survival during desiccation.",
+        "expected_answer": "Trehalose is a sugar that replaces water in cells to prevent membrane collapse. TDPs (Tardigrade-specific intrinsically disordered proteins) form a glass-like matrix that locks sensitive proteins in place, preventing them from denaturing.",
+        "quantitative_metrics": {
+            "cosine_similarity": 0.8707728981971741,
+            "keyword_overlap": 0.43478260869565216
+        },
+        "qualitative_assessment": {
+            "coherence_score": 0,
+            "factual_correctness_score": 0,
+            "completeness_score": 0,
+            "notes": ""
+        },
+        "retrieval_performance": {
+            "keyword_presence_in_context": 0.56
+        }
+    },
+    {
+        "question": "What extreme temperatures and pressures can tardigrades survive in their cryptobiotic state?",
+        "generated_answer": "Tardigrades can survive temperatures as low as -272 \u00b0C (-458 \u00b0F) and as high as 150 \u00b0C (300 \u00b0F) for several minutes. They can also withstand pressures up to 6,000 atmospheres.",
+        "expected_answer": "They can survive temperatures as low as -272 \u00c2\u00b0C and as high as 150 \u00c2\u00b0C. They can also withstand pressures up to 6,000 atmospheres.",
+        "quantitative_metrics": {
+            "cosine_similarity": 0.7237631678581238,
+            "keyword_overlap": 0.9333333333333333
+        },
+        "qualitative_assessment": {
+            "coherence_score": 0,
+            "factual_correctness_score": 0,
+            "completeness_score": 0,
+            "notes": ""
+        },
+        "retrieval_performance": {
+            "keyword_presence_in_context": 0.8181818181818182
+        }
+    },
+    {
+        "question": "What was the significance of the 2007 FOTON-M3 mission regarding tardigrades?",
+        "generated_answer": "The significance of the 2007 FOTON-M3 mission regarding tardigrades was that it demonstrated their ability to survive extreme conditions, including the vacuum of space, severe cosmic radiation, and intense solar UV radiation. Upon returning to Earth and being rehydrated, many of the tardigrades revived and successfully reproduced, making them the first known animals to survive direct exposure to the extreme vacuum of space.",
+        "expected_answer": "During this mission, tardigrades survived direct exposure to the vacuum of space, severe cosmic radiation, and intense solar UV radiation for 10 days, making them the first known animals to do so.",
+        "quantitative_metrics": {
+            "cosine_similarity": 0.8207875490188599,
+            "keyword_overlap": 0.7391304347826086
+        },
+        "qualitative_assessment": {
+            "coherence_score": 0,
+            "factual_correctness_score": 0,
+            "completeness_score": 0,
+            "notes": ""
+        },
+        "retrieval_performance": {
+            "keyword_presence_in_context": 0.8571428571428571
+        }
+    },
+    {
+        "question": "Do tardigrades have a distinct respiratory system?",
+        "generated_answer": "No, tardigrades do not have a distinct respiratory system.",
+        "expected_answer": "No, tardigrades lack distinct respiratory systems. Gas exchange occurs directly across their body surface, requiring them to be covered in at least a microscopic layer of water to breathe.",
+        "quantitative_metrics": {
+            "cosine_similarity": 0.8904733061790466,
+            "keyword_overlap": 0.16666666666666666
+        },
+        "qualitative_assessment": {
+            "coherence_score": 0,
+            "factual_correctness_score": 0,
+            "completeness_score": 0,
+            "notes": ""
+        },
+        "retrieval_performance": {
+            "keyword_presence_in_context": 0.9
+        }
+    },
+    {
+        "question": "How do parthenogenic tardigrade species reproduce and why is this advantageous?",
+        "generated_answer": "Parthenogenic tardigrade species reproduce by laying unfertilized eggs that develop into clones of the mother. This is advantageous in harsh isolated environments because a single tardigrade can establish a new colony without the need for a mate.",
+        "expected_answer": "Parthenogenic species consist entirely of females that lay unfertilized eggs which develop into clones. This is advantageous in harsh environments because a single tardigrade can establish a colony without needing a mate.",
+        "quantitative_metrics": {
+            "cosine_similarity": 0.9137032628059387,
+            "keyword_overlap": 0.75
+        },
+        "qualitative_assessment": {
+            "coherence_score": 0,
+            "factual_correctness_score": 0,
+            "completeness_score": 0,
+            "notes": ""
+        },
+        "retrieval_performance": {
+            "keyword_presence_in_context": 0.8333333333333334
+        }
+    },
+    {
+        "question": "What is the Dsup protein and how does it protect tardigrades?",
+        "generated_answer": "The Dsup protein, or Damage suppressor, is a unique protein found in the tardigrade species Ramazzottius varieornatus. It is highly abundant in tardigrade cells and binds directly to their DNA, forming a protective physical shield around the genetic material. This shield significantly reduces DNA damage caused by hydroxyl radicals, which are generated when ionizing radiation interacts with water molecules in the cell.",
+        "expected_answer": "The Dsup (Damage suppressor) protein is uniquely found in tardigrades. It binds directly to their DNA, forming a physical shield that significantly reduces DNA damage from hydroxyl radicals caused by ionizing radiation.",
+        "quantitative_metrics": {
+            "cosine_similarity": 0.9332326650619507,
+            "keyword_overlap": 0.8695652173913043
+        },
+        "qualitative_assessment": {
+            "coherence_score": 0,
+            "factual_correctness_score": 0,
+            "completeness_score": 0,
+            "notes": ""
+        },
+        "retrieval_performance": {
+            "keyword_presence_in_context": 0.7083333333333334
+        }
+    }
+]
